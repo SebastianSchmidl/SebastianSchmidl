@@ -10,6 +10,11 @@ Currently, I'm working in the distributed computing research group, where we inv
 - Distributed computing
 - Data profiling
 
+**💻 Current open-source activity**
+
+- Maintainer @ [TimeEval](https://github.com/TimeEval/timeeval) - An Evaluation Tool for Anomaly Detection Algorithms on Time Series
+- Core developer @ [aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for conducting machine learning tasks with time series data
+
 **📫 How to reach me**
 
 - ✉️ by Mail (info [AT] sebastianschmidl [DOT] de)
