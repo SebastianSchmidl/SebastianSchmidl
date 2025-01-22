@@ -34,11 +34,11 @@ Currently, I'm working in the distributed computing research group, where we inv
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codelionx&count_private=true&show_icons=true&theme=dark&hide_rank=true" alt="Sebastian Schmidl's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianschmidl&count_private=true&show_icons=true&theme=dark&hide_rank=true" alt="Sebastian Schmidl's GitHub stats"/>
 </a>
 </div>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelionx&theme=dark&hide=tex&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianschmidl&theme=dark&hide=tex&layout=compact" />
 </a>
 -->
